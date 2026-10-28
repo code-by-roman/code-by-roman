@@ -53,7 +53,7 @@ A travel-guide SPA: pick a country, click a region on an SVG map, and browse cur
 - **Code-splitting** with `React.lazy` and per-region dynamic `import()`: one ~565 kB bundle became 6–19 kB chunks loaded on demand.
 - **GitHub Actions CI** runs lint, typecheck, tests and build on every push and pull request.
 
-### 🐢 [TurtleTalk](https://github.com/code-by-roman/student-new-language-app) · language learning for kids and adults
+### 🐢 [TurtleTalks](https://github.com/code-by-roman/student-new-language-app) · language learning for kids and adults
 
 Word-match and sentence-builder games, spaced-repetition progress, an A1–C2 placement test and a pronunciation check.
 **React 19 · TypeScript · Vite 8 · Python / FastAPI · Supabase (Postgres, Auth, Storage) · faster-whisper**
@@ -78,6 +78,6 @@ Word-match and sentence-builder games, spaced-repetition progress, an A1–C2 pl
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02), AWS re/Start graduate
 - 💻 Full-Stack Web Developer program, Migracode Barcelona (2025 – 2026)
 - 📦 Founder & CEO of Boxes.in.ua (2015 – 2023), Project Manager at Happy design.pro (2022 – 2025)
-- 🌍 Ukrainian · Russian · English · Spanish (B1)
+- 🌍 Ukrainian · Russian · English · Spanish
 
 📍 **Open to roles in product-driven engineering teams.**
